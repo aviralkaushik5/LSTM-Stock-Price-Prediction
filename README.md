@@ -33,8 +33,8 @@ Hence, LSTM is well-suited for stock market prediction tasks.
 ## 📂 Project Structure
 
 LSTM-Stock-Price-Prediction/
-│
 
+│
 ├── data/
 │   └── stock_data.csv
 │
