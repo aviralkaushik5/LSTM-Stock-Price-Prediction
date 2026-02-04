@@ -34,19 +34,27 @@ Hence, LSTM is well-suited for stock market prediction tasks.
 
 LSTM-Stock-Price-Prediction/
 │
+
 ├── data/
 │   └── stock_data.csv
+
 │
 ├── notebooks/
+
 │   └── lstm_stock_prediction.ipynb
+
 │
 ├── images/
+
 │   └── prediction_vs_actual.png
 │
+
 ├── src/
 │   └── model.py
 │
+
 ├── README.md
+
 └── requirements.txt
 
 ## 🔄 Project Workflow
